@@ -1,0 +1,2 @@
+## DevSuperior - Java Exercises
+This repository contains my completed exercises from the DevSuperior eJava course. Its main goal is to track my learning progress in Java as I work through the course. The code is organized by course modules, allowing me to easily review past exercises and observe my development. This serves primarily as a personal learning resource and reference as I engage with the DevSuperior eJava program
